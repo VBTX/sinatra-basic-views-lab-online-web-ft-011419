@@ -4,7 +4,7 @@ class App < Sinatra::Base
 
   get '/' do
     <p>97 Bowling Alley Lane, Boulder CO </p>
-    <h2>Bet You Can't Bowl A Strike Every Time</h2>
+    <h2>Bet You Can''t Bowl A Strike Every Time</h2>
   end
 
   get "/index" do
